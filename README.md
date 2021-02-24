@@ -1,4 +1,4 @@
-# Project Name
+# RSS Feed Web Part
 ![GitHub Release Date](https://img.shields.io/github/release-date/fagansc/spfxImageSlider)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/fagansc/spfxImageSlider?include_prereleases)
 [![Build Status](https://dev.azure.com/scfagan/pipelineBuilds/_apis/build/status/spfx/ImageSlider?repoName=FaganSC%2FspfxImageSlider&branchName=master)](https://dev.azure.com/scfagan/pipelineBuilds/_build/latest?definitionId=19&repoName=FaganSC%2FspfxImageSlider&branchName=master)
